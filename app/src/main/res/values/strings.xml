@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Quote of The Day</string>
+    <string name="tv_author">- Nietzsche, Friedrich</string>
+    <string name="tv_quote">Success has always been a great liar.</string>
+</resources>
